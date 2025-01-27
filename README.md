@@ -50,3 +50,23 @@ The CPMP-IoT framework expands FACT-Net's application to real-world healthcare s
    - Enables **simultaneous monitoring** of multiple patients in healthcare wards, ensuring scalability, reliability, and efficient resource management.
 
 ![CPMP-IoT Framework](https://github.com/liuyisi123/FACT-Net/blob/main/CPMP-IoT.png)  
+
+---
+
+## **Appendices**  
+
+### **Appendix I: Circuit Schematic**  
+The **circuit schematic** provides a detailed illustration of the hardware design, showcasing the interconnections between key components in the physiological signal acquisition system.  
+[Download Circuit Schematic PDF](https://github.com/liuyisi123/FACT-Net/blob/main/Appendix-II-Circuit%20Schematic.pdf)  
+
+### **Appendix II: PCB Design**  
+The **PCB design** outlines the printed circuit board layout, ensuring optimal integration and functionality of the system components.  
+[Download PCB Design PDF](https://github.com/liuyisi123/FACT-Net/blob/main/Appendix-II-Circuit%20Schematic.pdf)
+
+---
+
+## **Download Buttons**  
+You can download the circuit schematic and PCB design from the following links:
+
+[![Download Circuit Schematic](https://img.shields.io/badge/Download%20Circuit%20Schematic-blue)](https://github.com/liuyisi123/FACT-Net/blob/main/Appendix-II-Circuit%20Schematic.pdf)  
+[![Download PCB Design](https://img.shields.io/badge/Download%20PCB%20Design-blue)](https://github.com/liuyisi123/FACT-Net/blob/main/Appendix-II-Circuit%20Schematic.pdf)
