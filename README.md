@@ -1,5 +1,4 @@
-# **FACT-Net**  
-### **A Two-Stage Fusion-CNN-Transformer Framework for ABP Signal Reconstruction in Cross-Platform Multi-Patient IoT Healthcare Systems**
+### **Edge-Intelligent Cross-Platform Architecture for Continuous Non-Invasive Arterial Blood Pressure Reconstruction in Distributed Healthcare IoT Networks**
 
 ---
 
