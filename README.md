@@ -8,18 +8,7 @@
 
 Official PyTorch implementation of **"Edge-Intelligent Cross-Platform Architecture for Knowledge-Intensive Arterial Blood Pressure Inference in Distributed Healthcare IoT Networks"** published in *Expert Systems With Applications*.
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [System Architecture](#system-architecture)
-- [Installation](#installation)
-- [Dataset Preparation](#dataset-preparation)
-- [Quick Start](#quick-start)
-- [Training](#training)
-- [Evaluation](#evaluation)
-- [Model Compression](#model-compression)
-- [Citation](#citation)
----
+
 
 ## **🧠 Multimodal Physiological Signal Acquisition System**  
 The **multimodal physiological signal acquisition system** developed in this study integrates cutting-edge hardware components, ensuring precise, reliable, and efficient data acquisition for ABP reconstruction tasks in diverse healthcare settings.
@@ -37,11 +26,6 @@ The **multimodal physiological signal acquisition system** developed in this stu
    - **(h)** 🔲 **Rear View**: Highlights modularity for easy upgrades.  
    - **(i)** 🌟 **PPG Sensor**: Provides high-accuracy signal acquisition.  
    - **(j)** 🔋 **3D-Printed Casing**: Integrated with a lithium battery for enhanced portability and durability.  
-
-![System Overview](https://github.com/liuyisi123/FACT-Net/blob/main/Hardware.png)  
-
-
-![FACT-Net Architecture](https://github.com/liuyisi123/FACT-Net/blob/main/FACT-Net.png)  
 
 
 ![CPMP-IoT Framework](https://github.com/liuyisi123/FACT-Net/blob/main/CPMP-IoT.png)  
